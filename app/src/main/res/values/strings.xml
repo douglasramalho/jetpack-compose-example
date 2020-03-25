@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack Compose Example</string>
+    <string name="title_activity_hello">My Compose App</string>
+</resources>
